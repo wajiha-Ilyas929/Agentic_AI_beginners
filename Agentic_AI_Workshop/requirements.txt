@@ -1,0 +1,17 @@
+openai>=0.27.0
+langchain>=0.0.200   # pin depending on compatibility; check docs
+python-dotenv
+tqdm
+chromadb  # optional, for local vector DB
+faiss-cpu  # optional
+black
+isort
+flake8
+pre-commit
+langchain 
+langchain-community 
+groq 
+langchain-groq
+transformers
+tiktoken
+sentence-transformers
