@@ -120,3 +120,9 @@ Special thanks to:
 - [Groq](https://groq.com)
 - [OpenAI](https://openai.com)
 - All students participating in this workshop 🚀
+
+## 🧩 Git the API 
+- open ai 
+https://platform.openai.com/api-keys
+- groq
+https://console.groq.com/keys
